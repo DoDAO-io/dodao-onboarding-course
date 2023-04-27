@@ -22,7 +22,7 @@ topics:
       of a smart contract audit is to ensure that the contract is secure and
       reliable, and that it will function as intended when deployed on a
       blockchain network.
-
+    questions: web-tailwind.yaml
 courseAdmins:
   - '0x34d014758297c00fea49935fce172677904d51ef'
   - '0x2a6af0619be90d129ab0d70c10e25c097b6ec67d'

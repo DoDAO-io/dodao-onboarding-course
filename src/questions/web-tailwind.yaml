@@ -1,0 +1,1278 @@
+- uuid: 5343a3ee-9206-42ce-9f33-1c7d65d97f84
+  type: SingleChoice
+  content: What is Tailwind CSS?
+  hint: 'Nohint'
+  explanation: >-
+    Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces.
+  answerKeys:
+    - A
+  subTopics: [ ]
+  difficultyLevel: Medium
+  choices:
+    - content: A utility-first CSS framework for rapidly building custom user interfaces
+      key: A
+    - content: A JavaScript library for building user interfaces
+      key: B
+    - content: A CSS preprocessor like Sass or Less
+      key: C
+    - content: A CSS framework for building responsive web applications
+      key: D
+- uuid: b6f53c0b-7d3a-40c1-874e-2ffbe9f6a8d6
+  type: SingleChoice
+  content: How do you install Tailwind CSS via npm?
+  hint: 'Nohint'
+  explanation: >-
+    To install Tailwind CSS via npm, run `npm install tailwindcss`.
+  answerKeys:
+    - B
+  subTopics: [ ]
+  difficultyLevel: Medium
+  choices:
+    - content: npm init tailwindcss
+      key: A
+    - content: npm install tailwindcss
+      key: B
+    - content: npm add tailwindcss
+      key: C
+    - content: npm get tailwindcss
+      key: D
+- uuid: 11f37a7b-ff2a-4969-9f1b-25f287901d8b
+  type: SingleChoice
+  content: Which command generates a default configuration file for Tailwind CSS?
+  hint: 'Nohint'
+  explanation: >-
+    The command 'npx tailwindcss init' generates a default configuration file for Tailwind CSS.
+  answerKeys:
+    - B
+  subTopics: [ ]
+  difficultyLevel: Medium
+  choices:
+    - content: npx tailwindcss setup
+      key: A
+    - content: npx tailwindcss init
+      key: B
+    - content: npx tailwindcss config
+      key: C
+    - content: npx tailwindcss generate
+      key: D
+- uuid: 9a0a5755-5c5f-494a-8a0a-2e7b74ea2a47
+  type: SingleChoice
+  content: What is the purpose of the @tailwind directive in a CSS file?
+  hint: 'Nohint'
+  explanation: >-
+    The @tailwind directive is used to inject Tailwind's base, components, and utilities styles into your CSS.
+  answerKeys:
+    - A
+  subTopics: [ ]
+  difficultyLevel: Medium
+  choices:
+    - content: To inject Tailwind's base, components, and utilities styles into your CSS
+      key: A
+    - content: To generate a responsive grid system
+      key: B
+    - content: To import custom CSS modules
+      key: C
+    - content: To define custom breakpoints
+      key: D
+- uuid: 4c4e4f56-cc71-4c74-9f10-3e8d20e4bddd
+  type: SingleChoice
+  content: What is the purpose of the @apply directive in Tailwind CSS?
+  hint: 'Nohint'
+  explanation: >-
+    The @apply directive is used to inline any existing utility classes into your own custom CSS.
+  answerKeys:
+    - C
+  subTopics: [ ]
+  difficultyLevel: Medium
+  choices:
+    - content: To import other CSS files
+      key: A
+    - content: To generate media queries for responsive design
+      key: B
+    - content: To inline any existing utility classes into your own custom CSS
+      key: C
+    - content: To create custom CSS animations
+      key: D
+- uuid: 75ac9f8d-5a47-43b5-a5a5-5a5f5c5d5e76
+  type: SingleChoice
+  content: How do you customize your configuration in a Tailwind CSS project?
+  hint: 'Nohint'
+  explanation: >-
+    To customize your configuration in a Tailwind CSS project, you should modify the tailwind.config.js file.
+  answerKeys:
+    - A
+  subTopics: [ ]
+  difficultyLevel: Medium
+  choices:
+    - content: Modify the tailwind.config.js file
+      key: A
+    - content: Modify the package.json file
+      key: B
+    - content: Modify the .env file
+      key: C
+    - content: Modify the tailwind.css file
+      key: D
+- uuid: 95e7bcbb-463a-4e1b-9074-4b4c4e2f2d53
+  type: SingleChoice
+  content: Which of the following is NOT a default breakpoint in Tailwind CSS?
+  hint: 'Nohint'
+  explanation: >-
+    The 'xl2' breakpoint is not a default breakpoint in Tailwind CSS. The default breakpoints are 'sm', 'md', 'lg', and 'xl'.
+  answerKeys:
+    - D
+  subTopics: [ ]
+  difficultyLevel: Medium
+  choices:
+    - content: sm
+      key: A
+    - content: md
+      key: B
+    - content: lg
+      key: C
+    - content: xl2
+      key: D
+- uuid: 39d5f5d5-5f5f-5d5f-5c5f-5b5a5a5a5a6e
+  type: SingleChoice
+  content: How do you create a custom utility class in Tailwind CSS?
+  hint: 'Nohint'
+  explanation: >-
+    To create a custom utility class in Tailwind CSS, you should add the new class to the 'extend' section in tailwind.config.js.
+  answerKeys:
+    - B
+  subTopics: [ ]
+  difficultyLevel: Medium
+  choices:
+    - content: Add the new class to the 'utilities' section in tailwind.config.js
+      key: A
+    - content: Add the new class to the 'extend' section in tailwind.config.js
+      key: B
+    - content: Add the new class to the 'variants' section in tailwind.config.js
+      key: C
+    - content: Add the new class to the 'plugins' section in tailwind.config.js
+      key: D
+- uuid: 5a5f5c5d-5e76-4c74-9f10-3e8d20e4bddd
+  type: SingleChoice
+  content: What is the purpose of the @screen directive in Tailwind CSS?
+  hint: 'Nohint'
+  explanation: >-
+    The @screen directive is used to create media queries for responsive design based on the defined breakpoints.
+  answerKeys:
+    - A
+  subTopics: [ ]
+  difficultyLevel: Medium
+  choices:
+    - content: To create media queries for responsive design based on the defined breakpoints
+      key: A
+    - content: To generate a responsive grid system
+      key: B
+    - content: To import custom CSS modules
+      key: C
+    - content: To define custom breakpoints
+      key: D
+- uuid: 3e8d20e4-75ac-9f8d-5a47-43b5a5a55a5f
+  type: SingleChoice
+  content: Which of the following Tailwind CSS utility classes sets the font weight to bold?
+  hint: 'Nohint'
+  explanation: >-
+    The 'font-bold' utility class sets the font weight to bold in Tailwind CSS.
+  answerKeys:
+    - C
+  subTopics: [ ]
+  difficultyLevel: Medium
+  choices:
+    - content: font-weight-bold
+      key: A
+    - content: fw-bold
+      key: B
+    - content: font-bold
+      key: C
+    - content: bold
+      key: D
+- uuid: 4c5d5e5f-5a5a-5b5c-5d5e-5f4a4b4c4d4e
+  type: SingleChoice
+  content: What does the 'mx-auto' utility class do in Tailwind CSS?
+  hint: 'Nohint'
+  explanation: >-
+    The 'mx-auto' utility class in Tailwind CSS sets the left and right margins of an element to 'auto', which centers the element horizontally within its container.
+  answerKeys:
+    - B
+  subTopics: [ ]
+  difficultyLevel: Medium
+  choices:
+    - content: Sets the top and bottom margins to 'auto'
+      key: A
+    - content: Sets the left and right margins to 'auto'
+      key: B
+    - content: Sets the width of the element to 'auto'
+      key: C
+    - content: Sets the height of the element to 'auto'
+      key: D
+- uuid: 4e4f50a1-5b5c-5d5e-5f60-4a4b4c4d4e4f
+  type: SingleChoice
+  content: Which utility class in Tailwind CSS sets the display property to 'flex'?
+  hint: 'Nohint'
+  explanation: >-
+    The 'flex' utility class in Tailwind CSS sets the display property of an element to 'flex'.
+  answerKeys:
+    - A
+  subTopics: [ ]
+  difficultyLevel: Medium
+  choices:
+    - content: flex
+      key: A
+    - content: display-flex
+      key: B
+    - content: d-flex
+      key: C
+    - content: flex-container
+      key: D
+- uuid: 5a5b5c5d-5e5f-6061-4a4b-4c4d4e4f5051
+  type: SingleChoice
+  content: How do you add a hover effect to the background color of an element using Tailwind CSS?
+  hint: 'Nohint'
+  explanation: >-
+    To add a hover effect to the background color of an element using Tailwind CSS, you can use the 'hover:bg-{color}' utility class, where '{color}' is replaced by the desired color.
+  answerKeys:
+    - D
+  subTopics: [ ]
+  difficultyLevel: Medium
+  choices:
+    - content: bg-hover-{color}
+      key: A
+    - content: hover-bg-{color}
+      key: B
+    - content: on-hover:bg-{color}
+      key: C
+    - content: hover:bg-{color}
+      key: D
+- uuid: 6a6b6c6d-6e6f-7071-4a4b-4c4d4e4f5051
+  type: SingleChoice
+  content: How do you set the width of an element to 50% using Tailwind CSS?
+  hint: 'Nohint'
+  explanation: >-
+    To set the width of an element to 50% using Tailwind CSS, you can use the 'w-1/2' utility class.
+  answerKeys:
+    - C
+  subTopics: [ ]
+  difficultyLevel: Medium
+  choices:
+    - content: w-50
+      key: A
+    - content: w-half
+      key: B
+    - content: w-1/2
+      key: C
+    - content: w-50p
+      key: D
+- uuid: 7a7b7c7d-7e7f-8081-4a4b-4c4d4e4f5051
+  type: SingleChoice
+  content: How do you set the position property of an element to 'relative' using Tailwind CSS?
+  hint: 'Nohint'
+  explanation: >-
+    To set the position property of an element to 'relative' using Tailwind CSS, you can use the 'relative' utility class.
+  answerKeys:
+    - A
+  subTopics: [ ]
+  difficultyLevel: Medium
+  choices:
+    - content: relative
+      key: A
+    - content: position-relative
+      key: B
+    - content: pos-rel
+      key: C
+    - content: rel
+      key: D
+- uuid: 8a8b8c8d-8e8f-9091-4a4b-4c4d4e4f5051
+  type: SingleChoice
+  content: What is the purpose of the @variants directive in a Tailwind CSS configuration file?
+  hint: 'Nohint'
+  explanation: >-
+    The @variants directive in a Tailwind CSS configuration file is used to generate responsive, hover, focus, and other variants of your custom utility classes.
+  answerKeys:
+    - B
+  subTopics: [ ]
+  difficultyLevel: Medium
+  choices:
+    - content: To define custom breakpoints
+      key: A
+    - content: To generate responsive, hover, focus, and other variants of your custom utility classes
+      key: B
+    - content: To import custom CSS modules
+      key: C
+    - content: To create custom animations
+      key: D
+- uuid: 9a9b9c9d-9e9f-a0a1-4a4b-4c4d4e4f5051
+  type: SingleChoice
+  content: How do you set the flex-grow property of an element to '1' using Tailwind CSS?
+  hint: 'Nohint'
+  explanation: >-
+    To set the flex-grow property of an element to '1' using Tailwind CSS, you can use the 'flex-grow' utility class.
+  answerKeys:
+    - B
+  subTopics: [ ]
+  difficultyLevel: Medium
+  choices:
+    - content: flexGrow-1
+      key: A
+    - content: flex-grow
+      key: B
+    - content: grow-1
+      key: C
+    - content: flex-1
+      key: D
+- uuid: a6a7a8a9-aaab-acad-4a4b-4c4d4e4f5051
+  type: SingleChoice
+  content: What is the default font family used in Tailwind CSS?
+  hint: 'Nohint'
+  explanation: >-
+    The default font family used in Tailwind CSS is 'sans-serif'.
+  answerKeys:
+    - B
+  subTopics: [ ]
+  difficultyLevel: Easy
+  choices:
+    - content: serif
+      key: A
+    - content: sans-serif
+      key: B
+    - content: monospace
+      key: C
+    - content: cursive
+      key: D
+- uuid: abacadae-af4a-b0b1-4a4b-4c4d4e4f5051
+  type: SingleChoice
+  content: Which of the following is NOT a valid Tailwind CSS utility class for controlling font size?
+  hint: 'Nohint'
+  explanation: >-
+    The 'fs-normal' utility class is not a valid Tailwind CSS utility class for controlling font size.
+  answerKeys:
+    - C
+  subTopics: [ ]
+  difficultyLevel: Easy
+  choices:
+    - content: text-xs
+      key: A
+    - content: text-lg
+      key: B
+    - content: fs-normal
+      key: C
+    - content: text-4xl
+      key: D
+- uuid: b2b3b4b5-b6b7-b8b9-4a4b-4c4d4e4f5051
+  type: SingleChoice
+  content: Which of the following is a valid Tailwind CSS utility class for adding a box shadow to an element?
+  hint: 'Nohint'
+  explanation: >-
+    The 'shadow-md' utility class is a valid Tailwind CSS utility class for adding a box shadow to an element.
+  answerKeys:
+    - A
+  subTopics: [ ]
+  difficultyLevel: Easy
+  choices:
+    - content: shadow-md
+      key: A
+    - content: shadow-lg
+      key: B
+    - content: shadow-xl
+      key: C
+    - content: shadow-2xl
+      key: D
+- uuid: babbcbcd-bebf-c0c1-4a4b-4c4d4e4f5051
+  type: SingleChoice
+  content: Which of the following Tailwind CSS utility classes can be used to add a border to an element?
+  hint: 'Nohint'
+  explanation: >-
+    The 'border' and 'border-{size}' utility classes can be used to add a border to an element, where '{size}' is replaced by the desired border size.
+  answerKeys:
+    - D
+  subTopics: [ ]
+  difficultyLevel: Easy
+  choices:
+    - content: border-top
+      key: A
+    - content: border-left
+      key: B
+    - content: border-right
+      key: C
+    - content: border, border-{size}
+      key: D
+- uuid: c2c3c4c5-c6c7-c8c9-4a4b-4c4d4e4f5051
+  type: SingleChoice
+  content: Which of the following is a valid Tailwind CSS utility class for adding padding to all sides of an element?
+  hint: 'Nohint'
+  explanation: >-
+    The 'p-{size}' utility class is a valid Tailwind CSS utility class for adding padding to all sides of an element, where '{size}' is replaced by the desired padding size.
+  answerKeys:
+    - C
+  subTopics: [ ]
+  difficultyLevel: Easy
+  choices:
+    - content: py-{size}
+      key: A
+    - content: px-{size}
+      key: B
+    - content: p-{size}
+      key: C
+    - content: pt-{size} pb-{size} pl-{size} pr-{size}
+      key: D
+- uuid: cacad9d0-cecf-d2d3-4a4b-4c4d4e4f5051
+  type: SingleChoice
+  content: Which of the following is a valid Tailwind CSS utility class for adding margin to all sides of an element?
+  hint: 'Nohint'
+  explanation: >-
+    The 'm-{size}' utility class is a valid Tailwind CSS utility class for adding margin to all sides of an element, where '{size}' is replaced by the desired margin size.
+  answerKeys:
+    - B
+  subTopics: [ ]
+  difficultyLevel: Easy
+  choices:
+    - content: my-{size}
+      key: A
+    - content: m-{size}
+      key: B
+    - content: mx-{size}
+      key: C
+    - content: mt-{size} mb-{size} ml-{size} mr-{size}
+      key: D
+- uuid: d2d3d4d5-d6d7-d8d9-4a4b-4c4d4e4f5051
+  type: SingleChoice
+  content: Which of the following is a valid Tailwind CSS utility class for making an element text-align center?
+  hint: 'Nohint'
+  explanation: >-
+    The 'text-center' utility class is a valid Tailwind CSS utility class for making an element text-align center.
+  answerKeys:
+    - C
+  subTopics: [ ]
+  difficultyLevel: Easy
+  choices:
+    - content: align-center
+      key: A
+    - content: text-middle
+      key: B
+    - content: text-center
+      key: C
+    - content: text-justify
+      key: D
+- uuid: dadddbdc-dedf-e0e1-4a4b-4c4d4e4f5051
+  type: SingleChoice
+  content: Which of the following is a valid Tailwind CSS utility class for making an element text-transform uppercase?
+  hint: 'Nohint'
+  explanation: >-
+    The 'uppercase' utility class is a valid Tailwind CSS utility class for making an element text-transform uppercase.
+  answerKeys:
+    - C
+  subTopics: [ ]
+  difficultyLevel: Easy
+  choices:
+    - content: capitalize
+      key: A
+    - content: lowercase
+      key: B
+    - content: uppercase
+      key: C
+    - content: text-transform
+      key: D
+- uuid: e2e3e4e5-e6e7-e8e9-4a4b-4c4d4e4f5051
+  type: SingleChoice
+  content: Which of the following is a valid Tailwind CSS utility class for making an element text-decoration underline?
+  hint: 'Nohint'
+  explanation: >-
+    The 'underline' utility class is a valid Tailwind CSS utility class for making an element text-decoration underline.
+  answerKeys:
+    - B
+  subTopics: [ ]
+  difficultyLevel: Easy
+  choices:
+    - content: overline
+      key: A
+    - content: underline
+      key: B
+    - content: line-through
+      key: C
+    - content: text-decoration
+      key: D
+- uuid: eeaeb0b1-afb2-b3b4-4a4b-4c4d4e4f5051
+  type: SingleChoice
+  content: Which of the following is a valid Tailwind CSS utility class for setting the text color of an element to red?
+  hint: 'Nohint'
+  explanation: >-
+    The 'text-red-500' utility class is a valid Tailwind CSS utility class for setting the text color of an element to red.
+  answerKeys:
+    - B
+  subTopics: [ ]
+  difficultyLevel: Easy
+  choices:
+    - content: text-blue-500
+      key: A
+    - content: text-red-500
+      key: B
+    - content: text-green-500
+      key: C
+    - content: text-yellow-500
+      key: D
+- uuid: f2f3f4f5-f6f7-f8f9-4a4b-4c4d4e4f5051
+  type: SingleChoice
+  content: Which of the following is a valid Tailwind CSS utility class for setting the background color of an element to green?
+  hint: 'Nohint'
+  explanation: >-
+    The 'bg-green-500' utility class is a valid Tailwind CSS utility class for setting the background color of an element to green.
+  answerKeys:
+    - A
+  subTopics: [ ]
+  difficultyLevel: Easy
+  choices:
+    - content: bg-green-500
+      key: A
+    - content: bg-red-500
+      key: B
+    - content: bg-blue-500
+      key: C
+    - content: bg-yellow-500
+      key: D
+- uuid: fefdfcfb-faf9-f8f7-4a4b-4c4d4e4f5051
+  type: SingleChoice
+  content: Which of the following is a valid Tailwind CSS utility class for adding a rounded border to an element?
+  hint: 'Nohint'
+  explanation: >-
+    The 'rounded-{size}' utility class is a valid Tailwind CSS utility class for adding a rounded border to an element, where '{size}' is replaced by the desired border radius size.
+  answerKeys:
+    - D
+  subTopics: [ ]
+  difficultyLevel: Easy
+  choices:
+    - content: rounded-t-{size}
+      key: A
+    - content: rounded-b-{size}
+      key: B
+    - content: rounded-l-{size}
+      key: C
+    - content: rounded-{size}
+      key: D
+- uuid: 021322bf-b4a4-b4a4-4c4d-4e4f50515253
+  type: SingleChoice
+  content: Which of the following is a valid Tailwind CSS utility class for displaying an element as a flex container?
+  hint: 'Nohint'
+  explanation: >-
+    The 'flex' utility class is a valid Tailwind CSS utility class for displaying an element as a flex container.
+  answerKeys:
+    - B
+  subTopics: [ ]
+  difficultyLevel: Easy
+  choices:
+    - content: inline-block
+      key: A
+    - content: flex
+      key: B
+    - content: block
+      key: C
+    - content: inline
+      key: D
+- uuid: 142b29c0-b8a8-b8a8-4c4d-4e4f50515253
+  type: SingleChoice
+  content: Which of the following is a valid Tailwind CSS utility class for vertically centering an element within its container?
+  hint: 'Nohint'
+  explanation: >-
+    The 'items-center' utility class is a valid Tailwind CSS utility class for vertically centering an element within its container.
+  answerKeys:
+    - B
+  subTopics: [ ]
+  difficultyLevel: Easy
+  choices:
+    - content: justify-center
+      key: A
+    - content: items-center
+      key: B
+    - content: content-center
+      key: C
+    - content: align-middle
+      key: D
+- uuid: 242b29c0-b8a8-b8a8-4c4d-4e4f50515253
+  type: SingleChoice
+  content: Which of the following is a valid Tailwind CSS utility class for setting the width of an element to 50%?
+  hint: 'Nohint'
+  explanation: >-
+    The 'w-1/2' utility class is a valid Tailwind CSS utility class for setting the width of an element to 50%.
+  answerKeys:
+    - C
+  subTopics: [ ]
+  difficultyLevel: Easy
+  choices:
+    - content: w-full
+      key: A
+    - content: w-screen
+      key: B
+    - content: w-1/2
+      key: C
+    - content: w-2/3
+      key: D
+- uuid: 342b29c0-b8a8-b8a8-4c4d-4e4f50515253
+  type: SingleChoice
+  content: Which of the following is a valid Tailwind CSS utility class for setting the height of an element to 200 pixels?
+  hint: 'Nohint'
+  explanation: >-
+    The 'h-200' utility class is a valid Tailwind CSS utility class for setting the height of an element to 200 pixels.
+  answerKeys:
+    - A
+  subTopics: [ ]
+  difficultyLevel: Easy
+  choices:
+    - content: h-200
+      key: A
+    - content: h-screen
+      key: B
+    - content: h-full
+      key: C
+    - content: h-1/2
+      key: D
+- uuid: 442b29c0-b8a8-b8a8-4c4d-4e4f50515253
+  type: SingleChoice
+  content: Which of the following is a valid Tailwind CSS utility class for setting the font size of an element to 20 pixels?
+  hint: 'Nohint'
+  explanation: >-
+    The 'text-20' utility class is a valid Tailwind CSS utility class for setting the font size of an element to 20 pixels.
+  answerKeys:
+    - B
+  subTopics: [ ]
+  difficultyLevel: Easy
+  choices:
+    - content: text-16
+      key: A
+    - content: text-20
+      key: B
+    - content: text-24
+      key: C
+    - content: text-32
+      key: D
+- uuid: 542b29c0-b8a8-b8a8-4c4d-4e4f50515253
+  type: SingleChoice
+  content: Which of the following is a valid Tailwind CSS utility class for setting the font family of an element to 'Helvetica Neue'?
+  hint: 'Nohint'
+  explanation: >-
+    The 'font-sans' utility class is a valid Tailwind CSS utility class for setting the font family of an element to the default sans-serif font, which is typically 'Helvetica Neue' or a similar font.
+  answerKeys:
+    - C
+  subTopics: [ ]
+  difficultyLevel: Easy
+  choices:
+    - content: font-serif
+      key: A
+    - content: font-mono
+      key: B
+    - content: font-sans
+      key: C
+    - content: font-display
+      key: D
+- uuid: 642b29c0-b8a8-b8a8-4c4d-4e4f50515253
+  type: SingleChoice
+  content: Which of the following is a valid Tailwind CSS utility class for setting the font weight of an element to bold?
+  hint: 'Nohint'
+  explanation: >-
+    The 'font-bold' utility class is a valid Tailwind CSS utility class for setting the font weight of an element to bold.
+  answerKeys:
+    - B
+  subTopics: [ ]
+  difficultyLevel: Easy
+  choices:
+    - content: font-light
+      key: A
+    - content: font-bold
+      key: B
+    - content: font-medium
+      key: C
+    - content: font-black
+      key: D
+- uuid: 842b29c0-b8a8-b8a8-4c4d-4e4f50515253
+  type: SingleChoice
+  content: Which of the following is a valid Tailwind CSS utility class for setting the background color of an element to red?
+  hint: 'Nohint'
+  explanation: >-
+    The 'bg-red-500' utility class is a valid Tailwind CSS utility class for setting the background color of an element to red.
+  answerKeys:
+    - C
+  subTopics: [ ]
+  difficultyLevel: Easy
+  choices:
+    - content: bg-blue-500
+      key: A
+    - content: bg-green-500
+      key: B
+    - content: bg-red-500
+      key: C
+    - content: bg-yellow-500
+      key: D
+- uuid: 942b29c0-b8a8-b8a8-4c4d-4e4f50515253
+  type: SingleChoice
+  content: Which of the following is a valid Tailwind CSS utility class for setting the border color of an element to gray?
+  hint: 'Nohint'
+  explanation: >-
+    The 'border-gray-500' utility class is a valid Tailwind CSS utility class for setting the border color of an element to gray.
+  answerKeys:
+    - B
+  subTopics: [ ]
+  difficultyLevel: Easy
+  choices:
+    - content: border-blue-500
+      key: A
+    - content: border-gray-500
+      key: B
+    - content: border-red-500
+      key: C
+    - content: border-yellow-500
+      key: D
+- uuid: a42b29c0-b8a8-b8a8-4c4d-4e4f50515253
+  type: SingleChoice
+  content: Which of the following is a valid Tailwind CSS utility class for setting the margin of an element to 20 pixels on all sides?
+  hint: 'Nohint'
+  explanation: >-
+    The 'm-20' utility class is a valid Tailwind CSS utility class for setting the margin of an element to 20 pixels on all sides.
+  answerKeys:
+    - C
+  subTopics: [ ]
+  difficultyLevel: Easy
+  choices:
+    - content: m-10
+      key: A
+    - content: m-15
+      key: B
+    - content: m-20
+      key: C
+    - content: m-25
+      key: D
+- uuid: b42b29c0-b8a8-b8a8-4c4d-4e4f50515253
+  type: SingleChoice
+  content: Which of the following is a valid Tailwind CSS utility class for setting the padding of an element to 10 pixels on all sides?
+  hint: 'Nohint'
+  explanation: >-
+    The 'p-10' utility class is a valid Tailwind CSS utility class for setting the padding of an element to 10 pixels on all sides.
+  answerKeys:
+    - A
+  subTopics: [ ]
+  difficultyLevel: Easy
+  choices:
+    - content: p-10
+      key: A
+    - content: p-15
+      key: B
+    - content: p-20
+      key: C
+    - content: p-25
+      key: D
+- uuid: c42b29c0-b8a8-b8a8-4c4d-4e4f50515253
+  type: SingleChoice
+  content: Which of the following is a valid Tailwind CSS utility class for setting the width of an element to 50% of its parent element's width?
+  hint: 'Nohint'
+  explanation: >-
+    The 'w-1/2' utility class is a valid Tailwind CSS utility class for setting the width of an element to 50% of its parent element's width.
+  answerKeys:
+    - C
+  subTopics: [ ]
+  difficultyLevel: Easy
+  choices:
+    - content: w-1/4
+      key: A
+    - content: w-1/3
+      key: B
+    - content: w-1/2
+      key: C
+    - content: w-2/3
+      key: D
+- uuid: d42b29c0-b8a8-b8a8-4c4d-4e4f50515253
+  type: SingleChoice
+  content: Which of the following is a valid Tailwind CSS utility class for setting the height of an element to 100 pixels?
+  hint: 'Nohint'
+  explanation: >-
+    The 'h-100' utility class is a valid Tailwind CSS utility class for setting the height of an element to 100 pixels.
+  answerKeys:
+    - B
+  subTopics: [ ]
+  difficultyLevel: Easy
+  choices:
+    - content: h-50
+      key: A
+    - content: h-100
+      key: B
+    - content: h-200
+      key: C
+    - content: h-300
+      key: D
+- uuid: e42b29c0-b8a8-b8a8-4c4d-4e4f50515253
+  type: SingleChoice
+  content: Which of the following is a valid Tailwind CSS utility class for setting the maximum width of an element to 500 pixels?
+  hint: 'Nohint'
+  explanation: >-
+    The 'max-w-500' utility class is a valid Tailwind CSS utility class for setting the maximum width of an element to 500 pixels.
+  answerKeys:
+    - C
+  subTopics: [ ]
+  difficultyLevel: Easy
+  choices:
+    - content: max-w-200
+      key: A
+    - content: max-w-400
+      key: B
+    - content: max-w-500
+      key: C
+    - content: max-w-600
+      key: D
+- uuid: f42b29c0-b8a8-b8a8-4c4d-4e4f50515253
+  type: SingleChoice
+  content: Which of the following is a valid Tailwind CSS utility class for setting the display property of an element to none?
+  hint: 'Nohint'
+  explanation: >-
+    The 'hidden' utility class is a valid Tailwind CSS utility class for setting the display property of an element to none.
+  answerKeys:
+    - A
+  subTopics: [ ]
+  difficultyLevel: Easy
+  choices:
+    - content: hidden
+      key: A
+    - content: block
+      key: B
+    - content: inline
+      key: C
+    - content: flex
+      key: D
+- uuid: g42b29c0-b8a8-b8a8-4c4d-4e4f50515253
+  type: SingleChoice
+  content: Which of the following is a valid Tailwind CSS utility class for setting the font size of an element to 16 pixels?
+  hint: 'Nohint'
+  explanation: >-
+    The 'text-base' utility class is a valid Tailwind CSS utility class for setting the font size of an element to 16 pixels.
+  answerKeys:
+    - B
+  subTopics: [ ]
+  difficultyLevel: Easy
+  choices:
+    - content: text-sm
+      key: A
+    - content: text-base
+      key: B
+    - content: text-lg
+      key: C
+    - content: text-xl
+      key: D
+- uuid: h42b29c0-b8a8-b8a8-4c4d-4e4f50515253
+  type: SingleChoice
+  content: Which of the following is a valid Tailwind CSS utility class for setting the font weight of an element to bold?
+  hint: 'Nohint'
+  explanation: >-
+    The 'font-bold' utility class is a valid Tailwind CSS utility class for setting the font weight of an element to bold.
+  answerKeys:
+    - C
+  subTopics: [ ]
+  difficultyLevel: Easy
+  choices:
+    - content: font-normal
+      key: A
+    - content: font-medium
+      key: B
+    - content: font-bold
+      key: C
+    - content: font-black
+      key: D
+- uuid: i42b29c0-b8a8-b8a8-4c4d-4e4f50515253
+  type: SingleChoice
+  content: Which of the following is a valid Tailwind CSS utility class for setting the text color of an element to gray?
+  hint: 'Nohint'
+  explanation: >-
+    The 'text-gray-500' utility class is a valid Tailwind CSS utility class for setting the text color of an element to gray.
+  answerKeys:
+    - B
+  subTopics: [ ]
+  difficultyLevel: Easy
+  choices:
+    - content: text-blue-500
+      key: A
+    - content: text-gray-500
+      key: B
+    - content: text-red-500
+      key: C
+    - content: text-yellow-500
+      key: D
+- uuid: j42b29c0-b8a8-b8a8-4c4d-4e4f50515253
+  type: SingleChoice
+  content: Which of the following is a valid Tailwind CSS utility class for vertically centering an element within its parent element?
+  hint: 'Nohint'
+  explanation: >-
+    The 'flex items-center justify-center' utility classes are a valid Tailwind CSS utility classes for vertically centering an element within its parent element.
+  answerKeys:
+    - A
+  subTopics: [ ]
+  difficultyLevel: Medium
+  choices:
+    - content: flex items-center justify-center
+      key: A
+    - content: absolute inset-0 m-auto
+      key: B
+    - content: top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2
+      key: C
+    - content: flex-col items-center justify-center
+      key: D
+- uuid: k42b29c0-b8a8-b8a8-4c4d-4e4f50515253
+  type: SingleChoice
+  content: Which of the following is a valid Tailwind CSS utility class for creating a full-width container with a maximum width of 1200 pixels and a left and right margin of auto?
+  hint: 'Nohint'
+  explanation: >-
+    The 'max-w-screen-xl mx-auto' utility classes are a valid Tailwind CSS utility classes for creating a full-width container with a maximum width of 1200 pixels and a left and right margin of auto.
+  answerKeys:
+    - C
+  subTopics: [ ]
+  difficultyLevel: Medium
+  choices:
+    - content: w-full max-w-screen-lg mx-auto
+      key: A
+    - content: max-w-screen-md mx-auto
+      key: B
+    - content: max-w-screen-xl mx-auto
+      key: C
+    - content: max-w-full mx-auto
+      key: D
+- uuid: l42b29c0-b8a8-b8a8-4c4d-4e4f50515253
+  type: SingleChoice
+  content: Which of the following is a valid Tailwind CSS utility class for creating a gradient background on an element?
+  hint: 'Nohint'
+  explanation: >-
+    The 'bg-gradient-to-r' utility class is a valid Tailwind CSS utility class for creating a gradient background on an element.
+  answerKeys:
+    - B
+  subTopics: [ ]
+  difficultyLevel: Medium
+  choices:
+    - content: bg-gradient-to-t
+      key: A
+    - content: bg-gradient-to-r
+      key: B
+    - content: bg-gradient-to-b
+      key: C
+    - content: bg-gradient-to-l
+      key: D
+- uuid: m42b29c0-b8a8-b8a8-4c4d-4e4f50515253
+  type: SingleChoice
+  content: Which of the following is a valid Tailwind CSS utility class for creating a border with a width of 2 pixels and a color of gray?
+  hint: 'Nohint'
+  explanation: >-
+    The 'border-2 border-gray-500' utility classes are a valid Tailwind CSS utility classes for creating a border with a width of 2 pixels and a color of gray.
+  answerKeys:
+    - B
+  subTopics: [ ]
+  difficultyLevel: Medium
+  choices:
+    - content: border-1 border-gray-500
+      key: A
+    - content: border-2 border-gray-500
+      key: B
+    - content: border-3 border-gray-500
+      key: C
+    - content: border-2 border-gray-400
+      key: D
+- uuid: o42b29c0-b8a8-b8a8-4c4d-4e4f50515253
+  type: SingleChoice
+  content: Which of the following is a valid Tailwind CSS utility class for setting the primary color of a theme to blue?
+  hint: 'Nohint'
+  explanation: >-
+    The 'bg-primary-blue' utility class is a valid Tailwind CSS utility class for setting the primary color of a theme to blue.
+  answerKeys:
+    - C
+  subTopics: [ ]
+  difficultyLevel: Medium
+  choices:
+    - content: bg-primary-red
+      key: A
+    - content: bg-primary-green
+      key: B
+    - content: bg-primary-blue
+      key: C
+    - content: bg-primary-yellow
+      key: D
+- uuid: p42b29c0-b8a8-b8a8-4c4d-4e4f50515253
+  type: SingleChoice
+  content: Which of the following is a valid Tailwind CSS utility class for creating a dark mode theme?
+  hint: 'Nohint'
+  explanation: >-
+    The 'dark' utility class is a valid Tailwind CSS utility class for creating a dark mode theme.
+  answerKeys:
+    - B
+  subTopics: [ ]
+  difficultyLevel: Easy
+  choices:
+    - content: light
+      key: A
+    - content: dark
+      key: B
+    - content: mode-dark
+      key: C
+    - content: mode-light
+      key: D
+- uuid: q42b29c0-b8a8-b8a8-4c4d-4e4f50515253
+  type: SingleChoice
+  content: Which of the following is a valid Tailwind CSS utility class for creating a hover effect on a button with a primary color of green?
+  hint: 'Nohint'
+  explanation: >-
+    The 'hover:bg-primary-green-dark' utility class is a valid Tailwind CSS utility class for creating a hover effect on a button with a primary color of green.
+  answerKeys:
+    - A
+  subTopics: [ ]
+  difficultyLevel: Medium
+  choices:
+    - content: hover:bg-primary-green-dark
+      key: A
+    - content: hover:bg-primary-red-dark
+      key: B
+    - content: hover:bg-primary-blue-dark
+      key: C
+    - content: hover:bg-primary-yellow-dark
+      key: D
+- uuid: r42b29c0-b8a8-b8a8-4c4d-4e4f50515253
+  type: SingleChoice
+  content: Which of the following is a valid Tailwind CSS utility class for creating a light mode theme with a primary color of pink?
+  hint: 'Nohint'
+  explanation: >-
+    The 'bg-light-primary-pink' utility class is a valid Tailwind CSS utility class for creating a light mode theme with a primary color of pink.
+  answerKeys:
+    - B
+  subTopics: [ ]
+  difficultyLevel: Hard
+  choices:
+    - content: bg-light-primary-red
+      key: A
+    - content: bg-light-primary-pink
+      key: B
+    - content: bg-light-primary-purple
+      key: C
+    - content: bg-light-primary-yellow
+      key: D
+- uuid: t42b29c0-b8a8-b8a8-4c4d-4e4f50515253
+  type: SingleChoice
+  content: Which of the following is a valid way to define a CSS variable in Tailwind CSS?
+  hint: 'Nohint'
+  explanation: >-
+    The '--my-var: red;' syntax is a valid way to define a CSS variable in Tailwind CSS.
+  answerKeys:
+    - C
+  subTopics: [ ]
+  difficultyLevel: Easy
+  choices:
+    - content: "my-var = red;"
+      key: A
+    - content: "var my-var = red;"
+      key: B
+    - content: "--my-var: red;"
+      key: C
+    - content: "my-var: red;"
+      key: D
+- uuid: u42b29c0-b8a8-b8a8-4c4d-4e4f50515253
+  type: SingleChoice
+  content: Which of the following is a valid way to use a CSS variable in Tailwind CSS?
+  hint: 'Nohint'
+  explanation: >-
+    The 'bg-var(--my-var)' utility class is a valid way to use a CSS variable in Tailwind CSS.
+  answerKeys:
+    - A
+  subTopics: [ ]
+  difficultyLevel: Easy
+  choices:
+    - content: bg-my-var
+      key: A
+    - content: bg-var(my-var)
+      key: B
+    - content: bg-var-my-var
+      key: C
+    - content: bg-var(--my-var)
+      key: D
+- uuid: v42b29c0-b8a8-b8a8-4c4d-4e4f50515253
+  type: SingleChoice
+  content: Which of the following is a valid Tailwind CSS utility class for setting the value of a CSS variable to a specific color?
+  hint: 'Nohint'
+  explanation: >-
+    The 'text-my-var-red' utility class is a valid Tailwind CSS utility class for setting the value of a CSS variable to a specific color.
+  answerKeys:
+    - B
+  subTopics: [ ]
+  difficultyLevel: Medium
+  choices:
+    - content: bg-my-var-red
+      key: A
+    - content: text-my-var-red
+      key: B
+    - content: border-my-var-red
+      key: C
+    - content: my-var-red
+      key: D
+- uuid: w42b29c0-b8a8-b8a8-4c4d-4e4f50515253
+  type: SingleChoice
+  content: What is the advantage of using CSS variables in Tailwind CSS?
+  hint: 'Nohint'
+  explanation: >-
+    The advantage of using CSS variables in Tailwind CSS is that they allow for easy theming and customization of the design without having to modify the underlying HTML or JavaScript.
+  answerKeys:
+    - D
+  subTopics: [ ]
+  difficultyLevel: Hard
+  choices:
+    - content: They allow for faster rendering of the page.
+      key: A
+    - content: They allow for more complex animations.
+      key: B
+    - content: They allow for better compatibility with older browsers.
+      key: C
+    - content: They allow for easy theming and customization of the design without having to modify the underlying HTML or JavaScript.
+      key: D
+- uuid: x42b29c0-b8a8-b8a8-4c4d-4e4f50515253
+  type: SingleChoice
+  content: Which of the following is a valid way to define a custom utility class in Tailwind CSS?
+  hint: 'Nohint'
+  explanation: >-
+    The '.my-class { color: red; }' syntax is a valid way to define a custom utility class in Tailwind CSS.
+  answerKeys:
+    - C
+  subTopics: [ ]
+  difficultyLevel: Easy
+  choices:
+    - content: "my-class = color: red;"
+      key: A
+    - content: "var my-class = color: red;"
+      key: B
+    - content: ".my-class { color: red; }"
+      key: C
+    - content: "my-class: { color: red; }"
+      key: D
+- uuid: y42b29c0-b8a8-b8a8-4c4d-4e4f50515253
+  type: SingleChoice
+  content: Which of the following is a valid way to include a custom utility class in Tailwind CSS?
+  hint: 'Nohint'
+  explanation: >-
+    The '@import "path/to/my-utilities.css";' syntax is a valid way to include a custom utility class in Tailwind CSS.
+  answerKeys:
+    - D
+  subTopics: [ ]
+  difficultyLevel: Medium
+  choices:
+    - content: >- 
+        @use "path/to/my-utilities.css";
+      key: A
+    - content: >- 
+        @include "path/to/my-utilities.css";
+      key: B
+    - content: >-
+        @require "path/to/my-utilities.css";
+      key: C
+    - content: >-
+        @import "path/to/my-utilities.css";
+      key: D
+- uuid: b52b29c0-b8a8-b8a8-4c4d-4e4f50515253
+  type: SingleChoice
+  content: Which of the following is a valid way to create a reusable component in Tailwind CSS?
+  hint: 'Nohint'
+  explanation: >-
+    The 'class="btn btn-primary"' syntax is a valid way to create a reusable component in Tailwind CSS.
+  answerKeys:
+    - C
+  subTopics: [ ]
+  difficultyLevel: Easy
+  choices:
+    - content: <button class="button primary">...</button>
+      key: A
+    - content: <a class="btn btn-primary">...</a>
+      key: B
+    - content: <button class="btn btn-primary">...</button>
+      key: C
+    - content: <a class="link primary">...</a>
+      key: D
+- uuid: c52b29c0-b8a8-b8a8-4c4d-4e4f50515253
+  type: SingleChoice
+  content: What is the advantage of creating reusable components in Tailwind CSS?
+  hint: 'Nohint'
+  explanation: >-
+    The advantage of creating reusable components in Tailwind CSS is that they can help to maintain consistency in the design and can save time by reducing the amount of code that needs to be written.
+  answerKeys:
+    - B
+  subTopics: [ ]
+  difficultyLevel: Medium
+  choices:
+    - content: They allow for more complex animations.
+      key: A
+    - content: They can help to maintain consistency in the design and can save time by reducing the amount of code that needs to be written.
+      key: B
+    - content: They improve the performance of the website.
+      key: C
+    - content: They increase the security of the website.
+      key: D
+- uuid: d52b29c0-b8a8-b8a8-4c4d-4e4f50515253
+  type: SingleChoice
+  content: What is the syntax for creating a new component in Tailwind CSS?
+  hint: 'Nohint'
+  explanation: >-
+    The syntax for creating a new component in Tailwind CSS is '.component-name { ... }'.
+  answerKeys:
+    - A
+  subTopics: [ ]
+  difficultyLevel: Easy
+  choices:
+    - content: ".component-name { ... }"
+      key: A
+    - content: "component-name { ... }"
+      key: B
+    - content: "#component-name { ... }"
+      key: C
+    - content: >-
+        @component component-name { ... }
+      key: D
+- uuid: f52b29c0-b8a8-b8a8-4c4d-4e4f50515253
+  type: SingleChoice
+  content: What is the recommended way to create a reusable component in Tailwind CSS?
+  hint: 'Nohint'
+  explanation: >-
+    The recommended way to create a reusable component in Tailwind CSS is to use the 'extend' feature.
+  answerKeys:
+    - D
+  subTopics: [ ]
+  difficultyLevel: Medium
+  choices:
+    - content: By duplicating the code of an existing component.
+      key: A
+    - content: By using a CSS preprocessor like Sass or Less.
+      key: B
+    - content: By creating a new CSS file for each component.
+      key: C
+    - content: By using the 'extend' feature in Tailwind CSS.
+      key: D
+- uuid: g52b29c0-b8a8-b8a8-4c4d-4e4f50515253
+  type: SingleChoice
+  content: What is the syntax for extending an existing class in Tailwind CSS?
+  hint: 'Nohint'
+  explanation: >-
+    The syntax for extending an existing class in Tailwind CSS is '.new-class-name { @extend .existing-class-name; }'.
+  answerKeys:
+    - C
+  subTopics: [ ]
+  difficultyLevel: Medium
+  choices:
+    - content: "'.new-class-name: extends .existing-class-name;'."
+      key: A
+    - content: "'.new-class-name @extends .existing-class-name;'."
+      key: B
+    - content: "'.new-class-name { @extend .existing-class-name; }'."
+      key: C
+    - content: "'.new-class-name { @include .existing-class-name; }'."
+      key: D
+- uuid: h52b29c0-b8a8-b8a8-4c4d-4e4f50515253
+  type: SingleChoice
+  content: What is the purpose of the @apply directive in Tailwind CSS?
+  hint: 'Nohint'
+  explanation: >-
+    The purpose of the @apply directive in Tailwind CSS is to apply a set of styles defined in a utility class to a new class.
+  answerKeys:
+    - B
+  subTopics: [ ]
+  difficultyLevel: Easy
+  choices:
+    - content: To include an external CSS file in the project.
+      key: A
+    - content: To apply a set of styles defined in a utility class to a new class.
+      key: B
+    - content: To define a new utility class.
+      key: C
+    - content: To extend an existing utility class.
+      key: D
