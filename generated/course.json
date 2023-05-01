@@ -20,6 +20,15 @@
   },
   "topics": [
     {
+      "key": "about-dodao",
+      "title": "About DoDAO",
+      "details": "In this chapter, we will discuss the current state of DoDAO. As a dynamic startup, we are constantly evolving and adjusting our immediate milestones, but our overarching vision remains unchanged: to be the preeminent technology company in the realm of Customer/User Education. \n\nTo achieve this, we collaborate with top-tier organizations to create educational websites that inform and engage their customers or users. Our commitment to excellence drives us to work with the best partners in this space.\n\n\n\n\n",
+      "explanations": [],
+      "readings": [],
+      "summaries": [],
+      "questions": []
+    },
+    {
       "title": "Introduction",
       "key": "introduction",
       "details": "Smart contract auditing is the process of reviewing and testing the source code of a smart contract to identify any potential vulnerabilities or security issues. This can include checking for errors in the code, evaluating the contract's overall design and architecture, and testing the contract's functionality to ensure that it performs as intended. The goal of a smart contract audit is to ensure that the contract is secure and reliable, and that it will function as intended when deployed on a blockchain network.\n",
@@ -2039,15 +2048,6 @@
       ],
       "readings": [],
       "summaries": []
-    },
-    {
-      "key": "about-dodao",
-      "title": "About DoDAO",
-      "details": "In this chapter, we will discuss the current state of DoDAO. As a dynamic startup, we are constantly evolving and adjusting our immediate milestones, but our overarching vision remains unchanged: to be the preeminent technology company in the realm of Customer/User Education. \n\nTo achieve this, we collaborate with top-tier organizations to create educational websites that inform and engage their customers or users. Our commitment to excellence drives us to work with the best partners in this space.\n\n\n\n\n",
-      "explanations": [],
-      "readings": [],
-      "summaries": [],
-      "questions": []
     }
   ],
   "priority": 50
