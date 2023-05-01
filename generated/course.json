@@ -1,18 +1,18 @@
 {
   "key": "dodao-course-template",
-  "title": "DoDAO Course Template",
-  "summary": "This is a course template\n",
-  "details": "## Coming Soon",
+  "title": "DoDAO Contributor",
+  "summary": "Handbook that talks about our values",
+  "details": "The  course/handbook outlines the values on which we work at DoDAO. This course covers topics such as job responsibilities, compensation, benefits, working hours, and code of conduct. It provides a clear framework for contributors to understand what is expected of them and what they can expect from DoDAO, promoting a positive and productive work environment for all.\n\n\n\n\n",
   "duration": "30 mins - 1 hour",
   "highlights": [
-    "Introduction"
+    "About DoDAO",
+    "Work we do",
+    "Values",
+    "Work Profiles"
   ],
   "publishStatus": "Draft",
-  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/courses/DoDAO/CourseIcons/audit_and_monitoring.png",
-  "courseAdmins": [
-    "0x34d014758297c00fea49935fce172677904d51ef",
-    "0x2a6af0619be90d129ab0d70c10e25c097b6ec67d"
-  ],
+  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/dodao-academy-eth-1/Course/DoDAO_Course_Template/1682943548876_dodao_contributor.png",
+  "courseAdmins": [],
   "coursePassContent": "Pass content of Course !!!!!!!!!!",
   "topicConfig": {
     "showExplanations": true,
@@ -2040,5 +2040,6 @@
       "readings": [],
       "summaries": []
     }
-  ]
+  ],
+  "priority": 50
 }
