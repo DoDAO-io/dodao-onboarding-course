@@ -2055,6 +2055,15 @@
       ],
       "readings": [],
       "summaries": []
+    },
+    {
+      "key": "web-dev-frontend",
+      "title": "Web Dev - Frontend",
+      "details": "We use Next.js\n\n\n## Next 13\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/gSSsZReIFRk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+      "explanations": [],
+      "readings": [],
+      "summaries": [],
+      "questions": []
     }
   ],
   "priority": 50
