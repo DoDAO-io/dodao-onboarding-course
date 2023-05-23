@@ -2057,18 +2057,18 @@
       "summaries": []
     },
     {
-      "key": "web-dev-frontend",
-      "title": "Web Dev - Frontend",
-      "details": "We use Next.js\n\n\n## Next 13\n\n### Router Updates\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/gSSsZReIFRk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n### Next 13.2 updates\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/UfNMlhu3L4I\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n### Loading State in Next 13\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2o5m1ovfl3c\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+      "key": "dodao-dev",
+      "title": "DoDAO - Dev",
+      "details": "This chapter explains all the basic skills you need to have to be a DoDAO developer",
       "explanations": [],
       "readings": [],
       "summaries": [],
       "questions": []
     },
     {
-      "key": "dodao-dev",
-      "title": "DoDAO - Dev",
-      "details": "This chapter explains all the basic skills you need to have to be a DoDAO developer",
+      "key": "web-dev-frontend",
+      "title": "Web Dev - Frontend",
+      "details": "We use Next.js\n\n\n## Next 13\n\n### Router Updates\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/gSSsZReIFRk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n### Next 13.2 updates\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/UfNMlhu3L4I\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n### Loading State in Next 13\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2o5m1ovfl3c\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
       "explanations": [],
       "readings": [],
       "summaries": [],

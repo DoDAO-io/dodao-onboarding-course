@@ -57,6 +57,11 @@ topics:
       reliable, and that it will function as intended when deployed on a
       blockchain network.
     questions: web-tailwind.yaml
+  - key: dodao-dev
+    title: DoDAO - Dev
+    details: >-
+      This chapter explains all the basic skills you need to have to be a DoDAO
+      developer
   - key: web-dev-frontend
     title: Web Dev - Frontend
     details: >-
@@ -92,11 +97,6 @@ topics:
       player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture; web-share"
       allowfullscreen></iframe>
-  - key: dodao-dev
-    title: DoDAO - Dev
-    details: >-
-      This chapter explains all the basic skills you need to have to be a DoDAO
-      developer
 courseAdmins: []
 coursePassContent: Pass content of Course !!!!!!!!!!
 topicConfig:
