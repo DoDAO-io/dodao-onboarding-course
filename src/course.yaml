@@ -92,6 +92,11 @@ topics:
       player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture; web-share"
       allowfullscreen></iframe>
+  - key: dodao-dev
+    title: DoDAO - Dev
+    details: >-
+      This chapter explains all the basic skills you need to have to be a DoDAO
+      developer
 courseAdmins: []
 coursePassContent: Pass content of Course !!!!!!!!!!
 topicConfig:

@@ -2064,6 +2064,15 @@
       "readings": [],
       "summaries": [],
       "questions": []
+    },
+    {
+      "key": "dodao-dev",
+      "title": "DoDAO - Dev",
+      "details": "This chapter explains all the basic skills you need to have to be a DoDAO developer",
+      "explanations": [],
+      "readings": [],
+      "summaries": [],
+      "questions": []
     }
   ],
   "priority": 50
