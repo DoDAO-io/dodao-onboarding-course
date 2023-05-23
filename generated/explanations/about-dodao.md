@@ -1,0 +1,20 @@
+## Header
+This is the course header. This will be added on top of every page. Go to [DoDAO.io](https://www.dodao.io) to know more.
+
+ ---
+ 
+ ## About DoDAO
+ 
+ **Values**        
+At our company, we strive to uphold several important values that shape our organizational culture and guide our work.
+
+1. **Continuous Learning** - First and foremost, we are committed to continuous learning. We believe that in order to deliver the best possible results, we must always seek to improve our skills and knowledge. 
+
+2. **Ownership** - Ownership means, when working on a task or functionality, you will figure out a way to complete the work. Its fine to do it wrong, but its important to try it and make progress.  
+
+3. **High-quality Work** - We also place a strong emphasis on delivering high-quality work. Learning is the foundation of quality, and we approach our work with a commitment to iterative improvement. We start with a basic level of quality that gets the ball rolling, but we are always working towards achieving top quality.
+
+4. **Fun** - We want our contributors to have the opportunity to work on projects that interest them and to feel a sense of fulfillment in their work.
+
+5. **Communication** - Finally, we value clear and effective communication within our organization. It is essential that our contributors are transparent about how much time they can work and any other commitments they may have. This helps us to plan and collaborate effectively, and ensures that everyone is on the same page about upcoming projects and deadlines. 
+ 

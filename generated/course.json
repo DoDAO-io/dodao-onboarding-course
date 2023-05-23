@@ -20,26 +20,27 @@
   },
   "topics": [
     {
-      "key": "about-dodao",
       "title": "About DoDAO",
+      "key": "about-dodao",
       "details": "In this chapter, we will discuss the current state of DoDAO. As a dynamic startup, we are constantly evolving and adjusting our immediate milestones, but our overarching vision remains unchanged: to be the preeminent technology company in the realm of Customer/User Education. \n\nTo achieve this, we collaborate with top-tier organizations to create educational websites that inform and engage their customers or users. Our commitment to excellence drives us to work with the best partners in this space.\n\n\n\n\n",
+      "order": 0,
       "explanations": [
         {
           "key": "values",
+          "title": "Values",
           "shortTitle": "Values",
-          "details": "At our company, we strive to uphold several important values that shape our organizational culture and guide our work.\n\n1. **Continuous Learning** - First and foremost, we are committed to continuous learning. We believe that in order to deliver the best possible results, we must always seek to improve our skills and knowledge. \n\n2. **Ownership** - Ownership means, when working on a task or functionality, you will figure out a way to complete the work. Its fine to do it wrong, but its important to try it and make progress.  \n\n3. **High-quality Work** - We also place a strong emphasis on delivering high-quality work. Learning is the foundation of quality, and we approach our work with a commitment to iterative improvement. We start with a basic level of quality that gets the ball rolling, but we are always working towards achieving top quality.\n\n4. **Fun** - We want our contributors to have the opportunity to work on projects that interest them and to feel a sense of fulfillment in their work.\n\n5. **Communication** - Finally, we value clear and effective communication within our organization. It is essential that our contributors are transparent about how much time they can work and any other commitments they may have. This helps us to plan and collaborate effectively, and ensures that everyone is on the same page about upcoming projects and deadlines.",
-          "title": "Values"
+          "details": "At our company, we strive to uphold several important values that shape our organizational culture and guide our work.\n\n1. **Continuous Learning** - First and foremost, we are committed to continuous learning. We believe that in order to deliver the best possible results, we must always seek to improve our skills and knowledge. \n\n2. **Ownership** - Ownership means, when working on a task or functionality, you will figure out a way to complete the work. Its fine to do it wrong, but its important to try it and make progress.  \n\n3. **High-quality Work** - We also place a strong emphasis on delivering high-quality work. Learning is the foundation of quality, and we approach our work with a commitment to iterative improvement. We start with a basic level of quality that gets the ball rolling, but we are always working towards achieving top quality.\n\n4. **Fun** - We want our contributors to have the opportunity to work on projects that interest them and to feel a sense of fulfillment in their work.\n\n5. **Communication** - Finally, we value clear and effective communication within our organization. It is essential that our contributors are transparent about how much time they can work and any other commitments they may have. This helps us to plan and collaborate effectively, and ensures that everyone is on the same page about upcoming projects and deadlines."
         }
       ],
+      "questions": [],
       "readings": [],
-      "summaries": [],
-      "questions": []
+      "summaries": []
     },
     {
       "title": "Introduction",
       "key": "introduction",
       "details": "Smart contract auditing is the process of reviewing and testing the source code of a smart contract to identify any potential vulnerabilities or security issues. This can include checking for errors in the code, evaluating the contract's overall design and architecture, and testing the contract's functionality to ensure that it performs as intended. The goal of a smart contract audit is to ensure that the contract is secure and reliable, and that it will function as intended when deployed on a blockchain network.\n",
-      "order": 0,
+      "order": 1,
       "explanations": [],
       "questions": [
         {
@@ -2057,23 +2058,115 @@
       "summaries": []
     },
     {
-      "key": "dodao-dev",
       "title": "DoDAO - Dev",
+      "key": "dodao-dev",
       "details": "This chapter explains all the basic skills you need to have to be a DoDAO developer",
+      "order": 2,
       "explanations": [],
+      "questions": [
+        {
+          "uuid": "a5429f6a-4f5e-46a8-91ab-b37d3982d7eb",
+          "type": "SingleChoice",
+          "content": "What command is used to save changes to the local repository in Git?",
+          "hint": "NoHint",
+          "explanation": "The 'git commit' command is used to save your changes to the local repository.",
+          "answerKeys": [
+            "C"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "git save",
+              "key": "A"
+            },
+            {
+              "content": "git push",
+              "key": "B"
+            },
+            {
+              "content": "git commit",
+              "key": "C"
+            },
+            {
+              "content": "git update",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "39dd74ad-8f9c-41c9-bf89-1a4bd4c649ec",
+          "type": "SingleChoice",
+          "content": "How do you add a message to your git commit?",
+          "hint": "NoHint",
+          "explanation": "The '-m' flag is used with 'git commit' command to add a message to the commit.",
+          "answerKeys": [
+            "B"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "git commit -a \"Message\"",
+              "key": "A"
+            },
+            {
+              "content": "git commit -m \"Message\"",
+              "key": "B"
+            },
+            {
+              "content": "git commit --message \"Message\"",
+              "key": "C"
+            },
+            {
+              "content": "git commit \"Message\"",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "9e0bbbbc-c6c1-4f23-b0ad-7b33a4d7d035",
+          "type": "SingleChoice",
+          "content": "What command is used to stage changes for a commit in Git?",
+          "hint": "NoHint",
+          "explanation": "The 'git add' command is used to stage changes for a commit in Git.",
+          "answerKeys": [
+            "D"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "git commit",
+              "key": "A"
+            },
+            {
+              "content": "git push",
+              "key": "B"
+            },
+            {
+              "content": "git update",
+              "key": "C"
+            },
+            {
+              "content": "git add",
+              "key": "D"
+            }
+          ]
+        }
+      ],
       "readings": [],
-      "summaries": [],
-      "questions": []
+      "summaries": []
     },
     {
-      "key": "web-dev-frontend",
       "title": "Web Dev - Frontend",
+      "key": "web-dev-frontend",
       "details": "We use Next.js\n\n\n## Next 13\n\n### Router Updates\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/gSSsZReIFRk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n### Next 13.2 updates\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/UfNMlhu3L4I\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n### Loading State in Next 13\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2o5m1ovfl3c\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+      "order": 3,
       "explanations": [],
+      "questions": [],
       "readings": [],
-      "summaries": [],
-      "questions": []
+      "summaries": []
     }
-  ],
-  "priority": 50
+  ]
 }

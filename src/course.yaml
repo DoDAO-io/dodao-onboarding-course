@@ -62,6 +62,7 @@ topics:
     details: >-
       This chapter explains all the basic skills you need to have to be a DoDAO
       developer
+    questions: dodao-dev.yaml
   - key: web-dev-frontend
     title: Web Dev - Frontend
     details: >-
