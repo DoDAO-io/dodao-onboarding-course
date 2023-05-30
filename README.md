@@ -26,4 +26,5 @@ This is the course header. This will be added on top of every page. Go to [DoDAO
  | 1      | About DoDAO | | [Details](generated/topics/about-dodao.md) <br/> [Explanations](generated/explanations/about-dodao.md) <br/>  <br/>  <br/>  | undefined | undefined |
  | 2      | Introduction | | [Details](generated/topics/introduction.md) <br/>  <br/>  <br/>  <br/> [Questions](generated/questions/web-tailwind.md) | undefined | undefined |
  | 3      | DoDAO - Dev | | [Details](generated/topics/dodao-dev.md) <br/>  <br/>  <br/>  <br/> [Questions](generated/questions/dodao-dev.md) | undefined | undefined |
- | 4      | Web Dev - Frontend | | [Details](generated/topics/web-dev-frontend.md) <br/>  <br/>  <br/>  <br/>  | undefined | undefined | 
+ | 4      | Github | | [Details](generated/topics/github.md) <br/>  <br/>  <br/>  <br/> [Questions](generated/questions/github.md) | undefined | undefined |
+ | 5      | Web Dev - Frontend | | [Details](generated/topics/web-dev-frontend.md) <br/>  <br/>  <br/>  <br/>  | undefined | undefined | 

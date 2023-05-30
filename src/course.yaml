@@ -63,6 +63,12 @@ topics:
       This chapter explains all the basic skills you need to have to be a DoDAO
       developer
     questions: dodao-dev.yaml
+  - key: github
+    title: Github
+    details: >-
+      This chapter explains all the basic git knowledge you need to have to be a DoDAO
+      developer
+    questions: github.yaml
   - key: web-dev-frontend
     title: Web Dev - Frontend
     details: >-
