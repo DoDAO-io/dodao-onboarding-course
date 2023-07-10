@@ -2065,36 +2065,6 @@
       "explanations": [],
       "questions": [
         {
-          "uuid": "a5429f6a-4f5e-46a8-91ab-b37d3982d7eb",
-          "type": "SingleChoice",
-          "content": "What command is used to save changes to the local repository in Git?",
-          "hint": "NoHint",
-          "explanation": "The 'git commit' command is used to save your changes to the local repository.",
-          "answerKeys": [
-            "C"
-          ],
-          "subTopics": [],
-          "difficultyLevel": "Medium",
-          "choices": [
-            {
-              "content": "git save",
-              "key": "A"
-            },
-            {
-              "content": "git push",
-              "key": "B"
-            },
-            {
-              "content": "git commit",
-              "key": "C"
-            },
-            {
-              "content": "git update",
-              "key": "D"
-            }
-          ]
-        },
-        {
           "uuid": "39dd74ad-8f9c-41c9-bf89-1a4bd4c649ec",
           "type": "SingleChoice",
           "content": "How do you add a message to your git commit?",
@@ -2120,6 +2090,36 @@
             },
             {
               "content": "git commit \"Message\"",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "a5429f6a-4f5e-46a8-91ab-b37d3982d7eb",
+          "type": "SingleChoice",
+          "content": "What command is used to save changes to the local repository in Git?",
+          "hint": "NoHint",
+          "explanation": "The 'git commit' command is used to save your changes to the local repository.",
+          "answerKeys": [
+            "C"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "git save",
+              "key": "A"
+            },
+            {
+              "content": "git push",
+              "key": "B"
+            },
+            {
+              "content": "git commit",
+              "key": "C"
+            },
+            {
+              "content": "git update",
               "key": "D"
             }
           ]
