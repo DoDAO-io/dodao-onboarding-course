@@ -2997,7 +2997,14 @@
       "key": "sales",
       "title": "Sales",
       "details": "Our primary goal is to create a product that sells itself, without requiring us to focus heavily on sales efforts. This process typically takes around 2-3 years to develop, and we consider it a journey in which we actively participate.\n\nDuring this initial stage, our focus is on listening and gathering as much information as possible. We don't need a large number of deals to achieve success; instead, we aim to work closely with a select group of valuable customers. Here are some important steps at this stage:\n\n1. Engage in meaningful conversations with customers and inquire about their current educational marketing strategies, methods for increasing awareness, and brand-building approaches.\n2. Understand what tools and solutions the customers are currently utilizing.\n3. Assess the level of automation in their processes.\n4. Validate the idea by confirming if the product we are selling is genuinely needed.\n5. Take note of the client's requirements and identify any gaps or missing features in our product.\n6. Finally, after completing the above steps, we can begin discussing our product with the customers.",
-      "explanations": [],
+      "explanations": [
+        {
+          "key": "blockchain-projects",
+          "shortTitle": "Blockchain",
+          "details": "We have achieved considerable success in our blockchain endeavors. Our educational solution has been highly acclaimed thus far, and with the introduction of new marketing features, we anticipate a significant increase in its value.\n\n\nThe most effective method to connect with blockchain projects is through Discord. Upon joining a server, navigate to the announcements channel and identify the individuals who frequently post announcements. Initiate a direct message (DM) with these individuals, outlining our expertise and past project involvements. Additionally, numerous blockchain servers feature a partnership channel; if available, consider sending the message there too.\n\n\n\n",
+          "title": "Blockchain Projects"
+        }
+      ],
       "readings": [],
       "summaries": [],
       "questions": []
