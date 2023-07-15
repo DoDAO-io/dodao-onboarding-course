@@ -66,8 +66,8 @@ topics:
   - key: github
     title: Github
     details: >-
-      This chapter explains all the basic git knowledge you need to have to be a DoDAO
-      developer
+      This chapter explains all the basic git knowledge you need to have to be a
+      DoDAO developer
     questions: github.yaml
   - key: web-dev-frontend
     title: Web Dev - Frontend
@@ -104,6 +104,38 @@ topics:
       player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture; web-share"
       allowfullscreen></iframe>
+  - key: sales
+    title: Sales
+    details: >-
+      Our primary goal is to create a product that sells itself, without
+      requiring us to focus heavily on sales efforts. This process typically
+      takes around 2-3 years to develop, and we consider it a journey in which
+      we actively participate.
+
+
+      During this initial stage, our focus is on listening and gathering as much
+      information as possible. We don't need a large number of deals to achieve
+      success; instead, we aim to work closely with a select group of valuable
+      customers. Here are some important steps at this stage:
+
+
+      1. Engage in meaningful conversations with customers and inquire about
+      their current educational marketing strategies, methods for increasing
+      awareness, and brand-building approaches.
+
+      2. Understand what tools and solutions the customers are currently
+      utilizing.
+
+      3. Assess the level of automation in their processes.
+
+      4. Validate the idea by confirming if the product we are selling is
+      genuinely needed.
+
+      5. Take note of the client's requirements and identify any gaps or missing
+      features in our product.
+
+      6. Finally, after completing the above steps, we can begin discussing our
+      product with the customers.
 courseAdmins: []
 coursePassContent: Pass content of Course !!!!!!!!!!
 topicConfig:
